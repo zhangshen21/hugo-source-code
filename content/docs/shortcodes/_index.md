@@ -2,6 +2,7 @@
 weight: 1
 bookFlatSection: false
 title: "Examplte"
+bookHidden: true
 ---
 
 # Introduction
